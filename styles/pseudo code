@@ -1,0 +1,151 @@
+Number guesser game:
+1. computer generates a random number
+2. player should be able to make a guess
+3. if the player chooses the correct number they win and can play again
+4. if the player is incorrect then they lose a life. If they lose 3 lives then the game is over
+It can look however you like and if you make some good progress you can add some extra features like making the next level harder if the player wins etc
+
+
+Html
+#body
+header div
+lives
+start button
+score
+// main
+h1 : Guess the number
+10 divs (5 x 5 ) with ids
+class with 10 number grids, 0-9
+
+#css
+style as appropriate
+
+#JavaScript
+setInterval() to create a 2 second timer
+variable for score
+variable with pre-set number of lives
+grab the divs in JS with querySelectorAll
+forEach eventListener on each div 'click'
+grab the start button in JS with querySelector
+eventListener 'click'
+grab the lives in JS with querySelector
+grab the score in JS with querySelector
+define timer variable in global scope with no value assigned initially
+variable with cycles since last click.
+const with setInterval -2 second timer/timer run random generate every 2 seconds
+// START/RESET FUNCTION
+ run PLAYER GUESS FUNCTION
+random generate function runs on Start command
+assign the setInterval to timer variable
+within setInterval remove 1 life
+updating cycles since last click add 1.
+//run REMOVE MOLE FUNCTION
+//random buttondivs.value = .mole
+//*random grabs array index
+//*array index relates to div value
+//*div value updates with .mole
+// ! If player press button start:
+// ! - choice is made
+// game is played
+// !   - setInterval
+// !PLAYER CLICK FUNCTION
+function will run on click(choice)
+//check .choice class is applied to a div with classList.contains()
+//if true player wins, play again and
+//if false player lose, remove 1 life
+//run REMOVE MOLE FUNCTION
+//clearInterval on timer
+//run !START! function
+// !ADD PLAYER'S CHOICE FUNCTION
+//Math.random to assign .choice class to random div
+// !END GAME FUNCTION
+// *if lives = 0 run gameOver
+// *if cycles >= 3 run gameover alert
+//at gameover window.alert final score
+
+// !REMOVE NUMBER FUNCTION
+// forEach(div => div.classList.remove('number') class from all divs
+
+
+
+
+function init() {
+  const numberButtons = document.querySelectorAll('main div')
+  const outcomeDisplay = document.querySelector('#outcome')
+  const liveNum = document.querySelector('#live-Num')
+  console.log('number buttons ->', numberButtons)
+  const randomIndex = Math.floor(Math.random() * numberButtons.length)
+  console.log('random index ->', randomIndex)
+  // const choices = numberButtons
+  const computer = {
+    currentChoice: null
+  }
+  const yourGuess = {
+    currentChoice: null
+  }
+  // let randomIndex = Math.floor(Math.random() * choices.length)
+  let livesRemaining = 3
+
+  // let choiceTimer
+  // let randomIndex
+  // let correctGuess = numberButtons.outCome
+
+
+  function computerChooses() {
+    const randomIndex = Math.floor(Math.random() * numberButtons.length)
+    computer.currentChoice = numberButtons[randomIndex]
+  }
+  // function compareChoices() {
+  //   player.currentChoice = event.currentTarget.innerText
+  //   computerChooses()
+  //   if (computer.currentChoice === player.currentChoice) {
+  //     document.getElementsByClassName('outcomeNum').innerText = 'Correct guess! Continue playing' + computer.currentChoice
+  //   } else {
+  //     livesRemaining--
+  //     liveNum.innerText = livesRemaining
+  //   }
+  // }
+
+  function handleNumberButtonsClick(event) {
+    computerChooses()
+    yourGuess.currentChoice = event.currentTarget.innerText
+    if (event.currentTarget.classList.numberButtons === computerChooses()) {
+      // console.log(numberButtons)
+      // event.target.classList.cancel === (computerChooses())
+      outcomeDisplay.innerText = 'Correct guess, play again!'
+    } else {
+      if (event.currentTarget.classList.numberButtons > computerChooses()) {
+        outcomeDisplay.innerText = 'Your guess was higher!'
+      } else {
+        if (event.target.classList.playerChoice < randomIndex) {
+          outcomeDisplay.innerText = 'Your guess was lesser!'
+        }
+      }
+    }
+
+    // for (let i = 0; i < livesRemaining; i++)
+    // livesRemaining.liveNum += Number(event.currentTarget.liveNum)
+    // liveNum.innerText = 3 - livesRemaining.numberButtons
+    livesRemaining--
+    liveNum.innerText = livesRemaining
+    return Math.floor()
+    // if (livesRemaining <= 0)
+    //   alert(`Game Over, lives remaining ${livesRemaining}`)
+    // numberButtons.target.classList.toggle('numberButtons')
+
+
+  }
+  // computer.addEventListener('click', computerChooses)
+  numberButtons.forEach(button => {
+    button.addEventListener('click', handleNumberButtonsClick)
+  })
+  // yourGuess.addEventListener('click', compareChoices)
+
+}
+
+
+
+window.addEventListener('DOMContentLoaded', init)
+
+
+
