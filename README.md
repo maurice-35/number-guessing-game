@@ -21,8 +21,8 @@ This was my very first project during the General Assembly Immersive course. Wor
 In this game, the computer generates a random number and the player has three chances to choose the correct number.The player gains points each time they choose the correct number. 
 
 # Brief
-Write a number-guessing game which functions as follows:
-Computer generates a random number.
+- Write a number-guessing game which functions as follows:
+* Computer generates a random number.
 Player should be able to make a guess.
 If the player chooses the correct number they win and can play again
 If the [player is incorrect then they lose a life. If they lose 3 lives then the game is over.
