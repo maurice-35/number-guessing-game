@@ -40,7 +40,8 @@ In this game, the computer generates a random number and the player has three ch
 - Access the source code and open the index.html file on your browser to start the game.
 
 ## Approach 
-Day 1 : I made a rough plan and wrote the following pseudocode:
+
+# Day 1 : I made a rough plan and wrote the following pseudocode:
 - HTML:
   - Header div,
   - Lives,
@@ -69,7 +70,7 @@ Day 1 : I made a rough plan and wrote the following pseudocode:
     - If live = 0 run gameOver.
     - At gameOver window.alert final score.
 
-Day 2: 
+# Day 2: 
 I used Miro.com to map out the grid.
 
 ![Screenshot 2021-08-25 at 11 06 57](https://user-images.githubusercontent.com/84001897/131211534-ab035ac3-341f-467f-a6c0-db783c7ed673.png)
@@ -78,6 +79,6 @@ I used Miro.com to map out the grid.
 - Created a repo on github and cloned to my terminal. 
 - Started writing some HTML, CSS & JavaScript.
 
-Day 3:
+# Day 3:
 I coded the whole day and made adjustments where necessary.
 
