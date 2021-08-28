@@ -46,13 +46,13 @@ Day 1 : I made a rough plan and wrote the following pseudocode:
   - Lives,
   - Score,
   - Body:
-  - h1 : guess the number,
-  - 10 divs with ids,
-  - Class with 12 numbers grids, 1-12.
+    - h1 : guess the number,
+    - 10 divs with ids,
+    - Class with 12 numbers grids, 1-12.
 - CSS:
   - Styled as appropriate.
 - JavaScript:
-  setInterval() to create a 2 second timer variable for score,
+  - setInterval() to create a 2 second timer variable for score,
   - Variable with preset number of lives = 3,
   - Grab divs in JS with querySelectorAll,
   - forEach evenListener on each div ‘click’,
