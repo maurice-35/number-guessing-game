@@ -1,6 +1,4 @@
-# project-1
-
-# Project 1 Readme - Number-guessing game
+# Project 1  - Number-guessing game
 # Click 👉🏽 123
 # Table of Contents
 # Overview
