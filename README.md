@@ -41,7 +41,8 @@ In this game, the computer generates a random number and the player has three ch
 
 ## Approach 
 
-# Day 1 : I made a rough plan and wrote the following pseudocode:
+# Day 1 : 
+I made a rough plan and wrote the following pseudocode:
 - HTML:
   - Header div,
   - Lives,
@@ -81,4 +82,12 @@ I used Miro.com to map out the grid.
 
 # Day 3:
 I coded the whole day and made adjustments where necessary.
+
+#  Featured Code:
+
+I started by creating a number-grid of 1 - 12 using HTML and styling with CSS.
+After I was satisfied that the game functioned correctly, I increased the number of buttons to 16.
+
+
+I created a function to grab the divs in JavaScript with querySelectorAll.
 
