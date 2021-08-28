@@ -16,11 +16,11 @@
 # License & Copyright
 
 
-## Overview
+# Overview
 This was my very first project during the General Assembly Immersive course. Working solo on this project, I had 3 days to come out with a number-guessing game.
 In this game, the computer generates a random number and the player has three chances to choose the correct number.The player gains points each time they choose the correct number. 
 
-## Brief
+# Brief
 - Write a number-guessing game which functions as follows:
 - Computer generates a random number.
 - Player should be able to make a guess.
@@ -28,20 +28,20 @@ In this game, the computer generates a random number and the player has three ch
 - If the player is incorrect then they lose a life. If they lose 3 lives then the game is over.
 - If you make some good progress, you can add some extra features like making the next level higher if the player wins etc. 
 
-##  Technologies
+#  Technologies
 - The game uses  
 - JavaScript
 - HTML
 - CSS and was deployed with 
 - GitHub pages.
 
-##  Getting Started
+#  Getting Started
 - The site is accessible through the browser and does not require any installations or dependencies.
 - Access the source code and open the index.html file on your browser to start the game.
 
-## Approach 
+# Approach 
 
-# Day 1 : 
+## Day 1 : 
 I made a rough plan and wrote the following pseudocode:
 - HTML:
   - Header div,
@@ -71,7 +71,7 @@ I made a rough plan and wrote the following pseudocode:
     - If live = 0 run gameOver.
     - At gameOver window.alert final score.
 
-# Day 2: 
+## Day 2: 
 I used Miro.com to map out the grid.
 
 ![Screenshot 2021-08-25 at 11 06 57](https://user-images.githubusercontent.com/84001897/131211534-ab035ac3-341f-467f-a6c0-db783c7ed673.png)
@@ -80,10 +80,10 @@ I used Miro.com to map out the grid.
 - Created a repo on github and cloned to my terminal. 
 - Started writing some HTML, CSS & JavaScript.
 
-# Day 3:
+## Day 3:
 I coded the whole day and made adjustments where necessary.
 
-#  Featured Code:
+##  Featured Code:
 
 I started by creating a number-grid of 1 - 12 using HTML and styling with CSS.
 After I was satisfied that the game functioned correctly, I increased the number of buttons to 16.
