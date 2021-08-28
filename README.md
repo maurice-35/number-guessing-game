@@ -13,11 +13,11 @@
 - [GettingStarted](#getting-started)
 - [Approach](#approach)
 - [Wins](#wins)
-- [Challenges/Bugs](#challenges-/-bugs)
+- [Challenges/Bugs](#challenges)
 - [Future Features](#future-features)
-- [Key Learnings/Takeaway](#key-learnings-/-takeaway)
+- [Key Learnings/Takeaway](#key-learnings)
 - [Contribution to this Project](#contribution-to-this-project)
-- [License & Copyright](#license & copyright)
+- [License & Copyright](#license-and-copyright)
 
 
 # Overview
