@@ -10,14 +10,14 @@
 - [Overview](#overview)
 - [Brief](#brief)
 - [Technologies](#technologies)
-# Getting Started
-# Approach
-# Wins
-# Challenges/Bugs
-# Future features
-# Key Learnings/Takeaway
-# Contribution to this Project
-# License & Copyright
+-[GettingStarted](#getting-started)
+-[Approach](#approach)
+-[Wins](#wins)
+-[Challenges/Bugs](#challenges/bugs)
+-[Future Features](#future-features)
+-[Key Learnings/Takeaway](#key-learnings/takeaway)
+-[Contribution to this Project](#contribution-to-this-project)
+-[License & Copyright](#license and copyright)
 
 
 # Overview
