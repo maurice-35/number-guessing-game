@@ -7,9 +7,9 @@
 # Table of Contents
 
 
--[Overview](#overview)
--[Brief](#brief)
--[Technologies](#technologies)
+- [Overview](#overview)
+- [Brief](#brief)
+- [Technologies](#technologies)
 # Getting Started
 # Approach
 # Wins
