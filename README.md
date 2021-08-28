@@ -160,3 +160,5 @@ I learnt how to write codes with JavaScript using DOM manipulation. Using ‘que
 # Contribution to this project
 I welcome any contribution or suggestions to improve on this project.
 
+#  License and copyright
+This project was built for educational purposes only. No copyright infringement is intended and all content is used under educational license.
