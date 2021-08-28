@@ -10,14 +10,14 @@
 - [Overview](#overview)
 - [Brief](#brief)
 - [Technologies](#technologies)
--[GettingStarted](#getting-started)
--[Approach](#approach)
--[Wins](#wins)
--[Challenges/Bugs](#challenges/bugs)
--[Future Features](#future-features)
--[Key Learnings/Takeaway](#key-learnings/takeaway)
--[Contribution to this Project](#contribution-to-this-project)
--[License & Copyright](#license and copyright)
+- [GettingStarted](#getting-started)
+- [Approach](#approach)
+- [Wins](#wins)
+- [Challenges/Bugs](#challenges/bugs)
+- [Future Features](#future-features)
+- [Key Learnings/Takeaway](#key-learnings/takeaway)
+- [Contribution to this Project](#contribution-to-this-project)
+- [License & Copyright](#license & copyright)
 
 
 # Overview
