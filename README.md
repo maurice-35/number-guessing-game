@@ -92,7 +92,6 @@ I made a rough plan and wrote the following pseudocode:
     I started by creating a number-grid of 1 - 12 using HTML and styling with CSS.
     After I was satisfied that the game functioned correctly, I increased the number of buttons to 16.
 
-
      <main class = 'numberButtons'>
               <div class = buttons id = '1'>1</div>
               <div class = buttons id = '2'>2</div>
