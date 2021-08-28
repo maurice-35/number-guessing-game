@@ -112,9 +112,17 @@ I created a function to grab the divs in JavaScript with querySelectorAll.
 
      const numberButtons = document.querySelectorAll('main div')
      
-     I used forEach eventListener on each div ‘click’.
+I used forEach eventListener on each div ‘click’.
      
      numberButtons.forEach(button => {
         button.addEventListener('click', handleNumberButtonsClick)
       })
 
+The computer generates a random choice.
+
+    function computerChooses() {
+        const randomIndex = Math.floor(Math.random() * numberButtons.length)
+        computer.currentChoice = randomIndex
+      }
+      
+Player guesses a number by selecting a button. If it matches that chosen by the computer, then the guess is correct and the player’s score increases.
