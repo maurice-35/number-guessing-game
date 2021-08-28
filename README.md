@@ -81,8 +81,8 @@ I used [Miro.com](https://www.miro.com/) to map out the grid.
 ![Screenshot 2021-08-25 at 11 06 57](https://user-images.githubusercontent.com/84001897/131211534-ab035ac3-341f-467f-a6c0-db783c7ed673.png)
 
 
-- Created a repo on github and cloned to my terminal. 
-- Started writing some HTML, CSS & JavaScript.
+- Created a repo on `GitHub` and cloned to my terminal. 
+- Started writing some `HTML`, `CSS` & `JavaScript`.
 
 ## Day 3:
 I coded the whole day and made adjustments where necessary.
