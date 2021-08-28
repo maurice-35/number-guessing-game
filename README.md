@@ -28,7 +28,7 @@ In this game, the computer generates a random number and the player has three ch
 - Write a number-guessing game which functions as follows:
 - Computer generates a random number.
 - Player should be able to make a guess.
-- If the player chooses the correct number they win and can play again
+- If the player chooses the correct number they win and can play again.
 - If the player is incorrect then they lose a life. If they lose 3 lives then the game is over.
 - If you make some good progress, you can add some extra features like making the next level higher if the player wins etc. 
 
@@ -48,9 +48,9 @@ In this game, the computer generates a random number and the player has three ch
 ## Day 1 : 
 I made a rough plan and wrote the following pseudocode:
 - HTML:
-  - Header div,
-  - Lives,
-  - Score,
+  - Header div
+  - Lives
+  - Score
   - Body:
     - h1 : guess the number,
     - 10 divs with ids,
@@ -58,12 +58,12 @@ I made a rough plan and wrote the following pseudocode:
 - CSS:
   - Styled as appropriate.
 - JavaScript:
-  - setInterval() to create a 2 second timer variable for score,
-  - Variable with preset number of lives = 3,
-  - Grab divs in JS with querySelectorAll,
-  - forEach evenListener on each div ‘click’,
-  - Grab button in JS with querySelector,
-  - Grab scored,
+  - setInterval() to create a 2 second timer variable for score.
+  - Variable with preset number of lives = 3.
+  - Grab divs in JS with querySelectorAll.
+  - forEach evenListener on each div ‘click’.
+  - Grab button in JS with querySelector.
+  - Grab scored.
   - Define time variable in global scope, no value assigned initially.
   - Computer generate function:
      - Generates a random number.
@@ -76,7 +76,7 @@ I made a rough plan and wrote the following pseudocode:
     - At gameOver window.alert final score.
 
 ## Day 2: 
-I used Miro.com to map out the grid.
+I used[Miro.com](https://www.miro.com/) to map out the grid.
 
 ![Screenshot 2021-08-25 at 11 06 57](https://user-images.githubusercontent.com/84001897/131211534-ab035ac3-341f-467f-a6c0-db783c7ed673.png)
 
