@@ -1,9 +1,15 @@
-# Project 1  - Number-guessing game
+# SEI - Project 1  - Number-guessing game
+
+
 # Click 👉🏽 123
+
+
 # Table of Contents
-# Overview
-# Brief
-# Technologies
+
+
+-[Overview](#overview)
+-[Brief](#brief)
+-[Technologies](#technologies)
 # Getting Started
 # Approach
 # Wins
