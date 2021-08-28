@@ -157,3 +157,6 @@ Getting the game to work such that if the player choses a number which is higher
 #  Key Learnings/Takeaway
 I learnt how to write codes with JavaScript using DOM manipulation. Using ‘querySelectorAll’ and ‘eventListener’ functions was a great takeaway.
 
+# Contribution to this project
+I welcome any contribution or suggestions to improve on this project.
+
