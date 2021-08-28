@@ -13,9 +13,9 @@
 - [GettingStarted](#getting-started)
 - [Approach](#approach)
 - [Wins](#wins)
-- [Challenges/Bugs](#challenges/bugs)
+- [Challenges/Bugs](#challenges-/-bugs)
 - [Future Features](#future-features)
-- [Key Learnings/Takeaway](#key-learnings/takeaway)
+- [Key Learnings/Takeaway](#key-learnings-/-takeaway)
 - [Contribution to this Project](#contribution-to-this-project)
 - [License & Copyright](#license & copyright)
 
