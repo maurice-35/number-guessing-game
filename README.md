@@ -106,9 +106,15 @@ After I was satisfied that the game functioned correctly, I increased the number
               <div class = buttons id = '14'>14</div>
               <div class = buttons id = '15'>15</div>
               <div class = buttons id = '16'>16</div>
-          </main><br>
+     </main><br>
 
 I created a function to grab the divs in JavaScript with querySelectorAll.
 
      const numberButtons = document.querySelectorAll('main div')
+     
+     I used forEach eventListener on each div ‘click’.
+     
+     numberButtons.forEach(button => {
+        button.addEventListener('click', handleNumberButtonsClick)
+      })
 
