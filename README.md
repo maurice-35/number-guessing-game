@@ -1,7 +1,7 @@
 # SEI - Project 1  - Number-guessing game
 
 
-[Click](#click) 👉🏽 [<b>123</>](https://maurice-35.github.io/number-guessing-game/)
+[Click](#click) 👉🏽 [<b>123](https://maurice-35.github.io/number-guessing-game/)
 
 
 # Table of Contents
