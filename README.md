@@ -22,8 +22,8 @@ In this game, the computer generates a random number and the player has three ch
 
 # Brief
 - Write a number-guessing game which functions as follows:
-* Computer generates a random number.
-Player should be able to make a guess.
-If the player chooses the correct number they win and can play again
-If the [player is incorrect then they lose a life. If they lose 3 lives then the game is over.
-If you make some good progress, you can add some extra features like making the next level higher if the player wins etc. 
+- Computer generates a random number.
+- Player should be able to make a guess.
+- If the player chooses the correct number they win and can play again
+- If the [player is incorrect then they lose a life. If they lose 3 lives then the game is over.
+- If you make some good progress, you can add some extra features like making the next level higher if the player wins etc. 
