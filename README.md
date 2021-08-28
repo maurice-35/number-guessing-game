@@ -58,11 +58,11 @@ I made a rough plan and wrote the following pseudocode:
 - CSS:
   - Styled as appropriate.
 - JavaScript:
-  - setInterval() to create a 2 second timer variable for score.
+  - `setInterval()` to create a 2 second timer variable for score.
   - Variable with preset number of lives = 3.
-  - Grab divs in JS with querySelectorAll.
-  - forEach evenListener on each div ‘click’.
-  - Grab button in JS with querySelector.
+  - Grab divs in JS with `querySelectorAll`.
+  - `forEach evenListener` on each div ‘click’.
+  - Grab button in JS with `querySelector`.
   - Grab scored.
   - Define time variable in global scope, no value assigned initially.
   - Computer generate function:
@@ -72,8 +72,8 @@ I made a rough plan and wrote the following pseudocode:
      - If the player’s choice matches the random number, the player wins and can play again.
      - If not matched, the player loses one life.
   - End game function:
-    - If live = 0 run gameOver.
-    - At gameOver window.alert final score.
+    - `If live = 0 run gameOver`.
+    - `At gameOver window.alert final score`.
 
 ## Day 2: 
 I used [Miro.com](https://www.miro.com/) to map out the grid.
