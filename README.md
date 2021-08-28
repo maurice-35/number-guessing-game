@@ -41,30 +41,30 @@ In this game, the computer generates a random number and the player has three ch
 
 ## Approach 
 Day 1 : I made a rough plan and wrote the following pseudocode:
-- HTML
-  *header div
+- HTML:
+  header div,
   Lives,
   Score,
   Body:
   h1 : guess the number,
   10 divs with ids,
   Class with 12 numbers grids, 1-12.
-- CSS
+- CSS:
 Styled as appropriate.
-- JavaScript
-. setInterval() to create a 2 second timer variable for score.
-. Variable with preset number of lives = 3.
-Grab divs in JS with querySelectorAll.
-forEach evenListener on each div ‘click’.
-Grab button in JS with querySelector.
-Grab scored.
+- JavaScript:
+setInterval() to create a 2 second timer variable for score,
+Variable with preset number of lives = 3,
+Grab divs in JS with querySelectorAll,
+forEach evenListener on each div ‘click’,
+Grab button in JS with querySelector,
+Grab scored,
 Define time variable in global scope, no value assigned initially.
-* Computer generate function
+* Computer generate function:
 Generates a random number.
-* Player click function
-Function will run on click.
+* Player click function:
+Function will run on click,
 If the player’s choice matches the random number, the player wins and can play again.
 If not matched, the player loses one life.
-* End game function
+* End game function:
 If live = 0 run gameOver.
 At gameOver window.alert final score.
