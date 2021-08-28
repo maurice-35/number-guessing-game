@@ -126,3 +126,13 @@ The computer generates a random choice.
       }
       
 Player guesses a number by selecting a button. If it matches that chosen by the computer, then the guess is correct and the player’s score increases.
+
+    if (Number(event.target.id) === computer.currentChoice) {
+          outcomeDisplay.innerText = 'Correct guess, 😎 play again!'
+          console.log('Match!')
+          currentScore += 10
+          score.innerText = currentScore
+    }
+
+If the player makes the wrong guess, they lose and the number of lives which is initially 3 reduces by 1. 
+When the number of lives reaches 0, the game is over.
