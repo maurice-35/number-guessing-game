@@ -42,9 +42,9 @@ In this game, the computer generates a random number and the player has three ch
 ## Approach 
 Day 1 : I made a rough plan and wrote the following pseudocode:
 - HTML:
-  header div,
-  Lives,
-  Score,
+  - header div,
+  - Lives,
+  - Score,
   Body:
   h1 : guess the number,
   10 divs with ids,
