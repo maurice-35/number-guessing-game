@@ -162,3 +162,8 @@ I welcome any contribution or suggestions to improve on this project.
 
 #  License and copyright
 This project was built for educational purposes only. No copyright infringement is intended and all content is used under educational license.
+
+
+
+© Maurice Kollewe
+© 2021 GitHub, Inc.
