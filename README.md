@@ -89,5 +89,26 @@ I started by creating a number-grid of 1 - 12 using HTML and styling with CSS.
 After I was satisfied that the game functioned correctly, I increased the number of buttons to 16.
 
 
+                      <main class = 'numberButtons'>
+                                <div class = buttons id = '1'>1</div>
+                                <div class = buttons id = '2'>2</div>
+                                <div class = buttons id = '3'>3</div>
+                                <div class = buttons id = '4'>4</div>
+                                <div class = buttons id = '5'>5</div>
+                                <div class = buttons id = '6'>6</div>
+                                <div class = buttons id = '7'>7</div>
+                                <div class = buttons id = '8'>8</div>
+                                <div class = buttons id = '9'>9</div>
+                                <div class = buttons id = '10'>10</div>
+                                <div class = buttons id = '11'>11</div>
+                                <div class = buttons id = '12'>12</div>
+                                <div class = buttons id = '13'>13</div>
+                                <div class = buttons id = '14'>14</div>
+                                <div class = buttons id = '15'>15</div>
+                                <div class = buttons id = '16'>16</div>
+                            </main><br>
+
 I created a function to grab the divs in JavaScript with querySelectorAll.
+
+                        const numberButtons = document.querySelectorAll('main div')
 
