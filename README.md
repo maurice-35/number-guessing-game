@@ -145,3 +145,7 @@ When the number of lives reaches 0, the game is over.
 Setting JavaScript to generate random numbers.    
 Setting the initial number of lives and reducing them each time a player makes the wrong guess.
 The fact that I got the game working was a big win. 
+
+# Challenges/Bugs
+As this was my very first project, I had difficulties setting the computer’s choice to match with the player’s choice.
+
