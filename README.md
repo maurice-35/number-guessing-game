@@ -136,3 +136,12 @@ Player guesses a number by selecting a button. If it matches that chosen by the 
 
 If the player makes the wrong guess, they lose and the number of lives which is initially 3 reduces by 1. 
 When the number of lives reaches 0, the game is over.
+
+    if (livesRemaining === 0) {
+            setTimeout(endGame, 10)
+          }
+
+# Wins
+Setting JavaScript to generate random numbers.    
+Setting the initial number of lives and reducing them each time a player makes the wrong guess.
+The fact that I got the game working was a big win. 
