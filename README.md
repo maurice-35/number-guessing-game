@@ -34,7 +34,7 @@ In this game, the computer generates a random number and the player has three ch
 
 #  Technologies
 - The game uses 
-[JavaScript](https://www.javascript.com/)
+- [JavaScript](https://www.javascript.com/)
 - JavaScript
 - HTML
 - CSS and was deployed with 
