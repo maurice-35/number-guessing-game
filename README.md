@@ -75,22 +75,22 @@ I made a rough plan and wrote the following pseudocode:
     - If live = 0 run gameOver.
     - At gameOver window.alert final score.
 
-    ## Day 2: 
-    I used [Miro.com](https://www.miro.com/) to map out the grid.
+## Day 2: 
+I used [Miro.com](https://www.miro.com/) to map out the grid.
 
-    ![Screenshot 2021-08-25 at 11 06 57](https://user-images.githubusercontent.com/84001897/131211534-ab035ac3-341f-467f-a6c0-db783c7ed673.png)
+![Screenshot 2021-08-25 at 11 06 57](https://user-images.githubusercontent.com/84001897/131211534-ab035ac3-341f-467f-a6c0-db783c7ed673.png)
 
 
-    - Created a repo on github and cloned to my terminal. 
-    - Started writing some HTML, CSS & JavaScript.
+- Created a repo on github and cloned to my terminal. 
+- Started writing some HTML, CSS & JavaScript.
 
-    ## Day 3:
-    I coded the whole day and made adjustments where necessary.
+## Day 3:
+I coded the whole day and made adjustments where necessary.
 
-    ##  Featured Code:
+##  Featured Code:
 
-    I started by creating a number-grid of 1 - 12 using HTML and styling with CSS.
-    After I was satisfied that the game functioned correctly, I increased the number of buttons to 16.
+I started by creating a number-grid of 1 - 12 using HTML and styling with CSS.
+After I was satisfied that the game functioned correctly, I increased the number of buttons to 16.
 
      <main class = 'numberButtons'>
               <div class = buttons id = '1'>1</div>
