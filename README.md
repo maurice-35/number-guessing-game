@@ -25,7 +25,7 @@ In this game, the computer generates a random number and the player has three ch
 - Computer generates a random number.
 - Player should be able to make a guess.
 - If the player chooses the correct number they win and can play again
-- If the [player is incorrect then they lose a life. If they lose 3 lives then the game is over.
+- If the player is incorrect then they lose a life. If they lose 3 lives then the game is over.
 - If you make some good progress, you can add some extra features like making the next level higher if the player wins etc. 
 
 ##  Technologies
@@ -68,3 +68,13 @@ Day 1 : I made a rough plan and wrote the following pseudocode:
   - End game function:
     - If live = 0 run gameOver.
     - At gameOver window.alert final score.
+
+Day 2: 
+I used Miro.com to map out the grid.
+
+- Created a repo on github and cloned to my terminal. 
+- Started writing some HTML, CSS & JavaScript.
+
+Day 3:
+I coded the whole day and made adjustments where necessary.
+
