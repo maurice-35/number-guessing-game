@@ -33,10 +33,10 @@ In this game, the computer generates a random number and the player has three ch
 - If you make some good progress, you can add some extra features like making the next level higher if the player wins etc. 
 
 #  Technologies
-- [JavaScript](https://www.javascript.com/)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and was deployed with 
-- [GitHub pages](https://pages.github.com/)
+- JavaScript
+- HTML
+- CSS and was deployed with 
+- GitHub pages
 
 #  Getting Started
 - The site is accessible through the browser and does not require any installations or dependencies.
