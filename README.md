@@ -56,6 +56,7 @@ I made a rough plan and wrote the following pseudocode:
     - Class with 12 numbers grids, 1-12.
 - CSS:
   - Styled as appropriate.
+  
 - JavaScript:
   - `setInterval()` to create a 2 second timer variable for score.
   - Variable with preset number of lives = 3.
