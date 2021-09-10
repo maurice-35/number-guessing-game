@@ -155,7 +155,7 @@ The fact that I got the game working was a big win.
 - Future Features
 
   - This final output does not cover all  intentions and plans for the project. As a result, I intend to make some improvements on this project particularly on:
-Getting the game to work such that if the player choses a number which is higher than the computer’s choice, all numbers higher than the player’s choice should be inactive. Likewise, if the player’s choice is lower than the computer’s choice, numbers lower than the player’s choice should be inactive. 
+Getting the game to work such that if the player chooses a number which is higher than the computer’s choice, all numbers higher than the player’s choice should be inactive. Likewise, if the player’s choice is lower than the computer’s choice, numbers lower than the player’s choice should be inactive. 
 
 #  Key Learnings
 I learnt how to code with JavaScript using DOM manipulation. Using ‘querySelectorAll’ and ‘eventListener’ functions was a great takeaway.
