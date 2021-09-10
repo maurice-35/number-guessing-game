@@ -21,7 +21,7 @@
 
 
 # Overview
-This was my very first project during the General Assembly Immersive course. Working solo on this project, I had 3 days to come out with a number-guessing game.
+This was my very first project during the General Assembly Immersive course. Working solo on this project, I had 3 days to produce a number-guessing game.
 In this game, the computer generates a random number and the player has three chances to choose the correct number.The player gains points each time they choose the correct number. 
 
 # Brief
@@ -33,7 +33,6 @@ In this game, the computer generates a random number and the player has three ch
 - If you make some good progress, you can add some extra features like making the next level higher if the player wins etc. 
 
 #  Technologies
-- The game uses 
 - [JavaScript](https://www.javascript.com/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) and was deployed with 
