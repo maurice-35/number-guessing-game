@@ -35,7 +35,7 @@ In this game, the computer generates a random number and the player has three ch
 #  Technologies
 - JavaScript
 - HTML
-- CSS and was deployed with 
+- CSS
 - GitHub pages
 
 #  Getting Started
