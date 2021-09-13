@@ -22,7 +22,7 @@
 
 # Overview
 This was my very first project during the General Assembly Immersive course. Working solo on this project, I had 3 days to produce a number-guessing game.
-In this game, the computer generates a random number and the player has three chances to choose the correct number.The player gains points each time they choose the correct number. 
+In this game, the computer generates a random number and the player has three chances to choose the correct number. The player gains points each time they choose the correct number. 
 
 # Brief
 - Write a number-guessing game which functions as follows:
